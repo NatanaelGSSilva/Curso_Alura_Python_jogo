@@ -4,7 +4,7 @@
 git clone https://github.com/NatanaelGSSilva/Curso_Alura_Python_jogo
 
 # Como Rodar o Jogo
-python jogo.py
+python jogos.py
 
 # Opção 
 1. Forca
